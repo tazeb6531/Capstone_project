@@ -1,0 +1,52 @@
+StartDate = Start Date
+EndDate = End Date
+ResponseType = Response type
+IPAddress = IP Address
+Progress = progress
+Duration = Duration(in seconds)
+Finished = Finished
+RecordedDate = Recorded Date
+ResponseID = Response ID
+LName = Recipient Last Name
+FName = Recipient First Name
+Email = Recipient Email
+Reference = External Data Reference
+Latitude = Location Latitude
+Longitude = Location Longitude
+Channel = Distribution Channel
+Language = User Language
+HairLength = How long is your hair?
+DryingTime = How long does your hair typically take to dry?
+ScalpNumber = When parting your hair, how much of your scalp do you see?
+FlakesFrequency = How often do you see white or yellow flakes on your hair?
+HairType = What is your hair type? If your hair is a combination of different types, choose the most common of them.
+ProductStyling = What form of styling product do you prefer? - Selected Choice
+ProductStylingTxt = What form of styling product do you prefer? - None of these, I prefer... - Text
+HairProblem = What are your top 5 hair problems? (Select up to 5)
+BeardProblems = If you have a beard, what are your top 3 beard problems? (Select up to 3)
+ScalpfeelWash = How does your scalp typically feel two or three days after you wash it?
+Strand = Take a single strand of your hair and roll it between your fingers with your eyes closed. What best describes your strand?
+HairGreyed = How much of your hair has greyed?
+HairTreatment = Have you treated your hair with any of these treatments recently or will you soon?
+HairDry = How often do you treat your hair with heat or color-treatments like hair dye?
+ProductSmell = How do you like your products to smell?
+Races = Choose one or more races that you consider yourself to be: - Selected Choice
+RaceTxt = Choose one or more races that you consider yourself to be: - Other - Text
+AgeRange = What is your age range?
+Countries = List of Countries
+Sex = To which gender identity do you most identify? - Selected Choice
+SexTxt = To which gender identity do you most identify? - Prefer to self-describe - Text
+ZipCode = What is your ZIP code?
+productsLaunch = Would you like to be one of the first to know when CURLe first products launch? - Selected Choice
+productsLaunchTxt = Would you like to be one of the first to know when CURLe first products launch? - Yes, here's my email! - Text
+
+
+
+
+
+
+
+
+
+
+
